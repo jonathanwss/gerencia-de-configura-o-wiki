@@ -1,0 +1,1 @@
+# gerencia-de-configura-o-wiki
