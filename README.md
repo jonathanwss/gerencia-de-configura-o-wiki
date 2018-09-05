@@ -21,3 +21,18 @@ pastas
 - git add .
 - git commit -m "SUA MENSAGEM"
 - git push
+- git clone
+
+#Itens de configuração
+
+#Vebetes abordados
+- Coesão
+- Arquitetura de Software
+- Solicitação de Mudança
+- Gerente de Projeto
+- Gerente de Configuração
+- Contabilização da Configuração
+- Identificação dos Itens de Configuração
+- check-out
+- Auditoria física da configuração
+- versão
