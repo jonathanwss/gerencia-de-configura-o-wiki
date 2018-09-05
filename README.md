@@ -24,13 +24,13 @@ pastas
 - git clone
 
 #Itens de configuração
--- Código da Wiki
--- Páginas HTML (da aplicação)
--- Versão HTML (do código)
--- IDE
--- Browsers e Versões
--- Repositório
--- Especificação técnica
+- Código da Wiki
+- Páginas HTML (da aplicação)
+- Versão HTML (do código)
+- IDE
+- Browsers e Versões
+- Repositório
+- Especificação técnica
 
 #Vebetes abordados
 - Coesão
