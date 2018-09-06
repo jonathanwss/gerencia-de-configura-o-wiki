@@ -38,7 +38,11 @@ pastas
 - Solicitação de Mudança
 - Gerente de Projeto
 - Gerente de Configuração
-- Contabilização da Configuração
+- Contabilização da Configuração: A função de contabilização da situação da configuração visa: 
+(1) armazenar as informações geradas pelas demais funções; e 
+(2) permitir que essas informações possam ser acessadas em função de necessidades específicas. Essas
+necessidades específicas abrangem o uso de medições para a melhoria do processo, a estimativa de custos 
+futuros e a geração de relatórios gerenciais.
 - Identificação dos Itens de Configuração
 - check-out
 - Auditoria física da configuração
