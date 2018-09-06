@@ -32,7 +32,7 @@ pastas
 - Repositório
 - Especificação técnica
 
-#Vebetes abordados
+#Verbetes abordados
 - Coesão
 - Arquitetura de Software
 - Solicitação de Mudança
